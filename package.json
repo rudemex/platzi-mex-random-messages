@@ -13,14 +13,14 @@
   ],
   "author": "Maximiliano \"Mex\" Delgado <mdelgado@tresdoce.com.ar>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rudemex/platzi-mex-random-messages.git"
-  },
   "bin": {
     "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudemex/platzi-mex-random-messages.git"
+  },
   "bugs": {
     "url": "https://github.com/rudemex/platzi-mex-random-messages/issues"
   },
