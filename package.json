@@ -15,10 +15,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rudemex/platzi-mex-random-messages.git"
+    "url": "git+https://github.com/rudemex/platzi-mex-random-messages.git"
   },
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/rudemex/platzi-mex-random-messages/issues"
+  },
+  "homepage": "https://github.com/rudemex/platzi-mex-random-messages#readme"
 }
